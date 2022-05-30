@@ -10,4 +10,4 @@ ffprobe.exe
 
 # Downloads
 
-FFmpeg = https://github.com/GyanD/codexffmpeg/releases
+FFmpeg = https://github.com/GyanD/codexffmpeg/releases or https://github.com/GyanD/codexffmpeg/releases/tag/2022-05-29-git-a7e0997324
